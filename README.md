@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/yLeehsz014/yLeehsz014/background.png"/>
+<img width=100% bottom=50px src="https://github.com/yLeehsz014/yLeehsz014/blob/main/background.png"/>
 <br>
 <br> 
 
