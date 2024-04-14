@@ -3,17 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=1000&size=45&duration=4000&pause=1000&color=009fff&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name's+Lethícia;)](https://git.io/typing-svg)
 <br> 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yLeehsz014&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center"> 
-<a href="https://instagram.com/yleehsz" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
-</a>
-  
+[![Profile](https://img.shields.io/website?label=My_Profile&style=for-the-badge&url=https://https://yleehsz014.github.io/linktree_clone//)](https://yleehsz014.github.io/linktree_clone/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yleehsz);
+ 
 <div align="center" >
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/yLeehsz014?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40&theme=red&dark=true) 
